@@ -23,7 +23,6 @@ function HeroSection() {
   /></h1>
         <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>Navigate through my portfolio and explore the projects that define my passion for coding.</p>
       <div>
-        <button className='px-6 py-3 w-full sm:w-fit bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 rounded-full mr-4 bg-white hover:bg-slate-200 text-white'>Hire Me</button>
         <button className='px-1 py-1 w-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 sm:w-fit rounded-full bg-transparent hover:bg-slate-800 text-white mt-3'><span className='block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2'>
           <Link href="https://drive.google.com/file/d/1JyCxJ-Bg5Do4a9xH27D2vKwMpweiKHlH/view">Download CV</Link></span></button>
       </div>
