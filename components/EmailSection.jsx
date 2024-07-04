@@ -48,7 +48,7 @@ function EmailSection() {
       <div>
         <h5 className='text-xl font-bold text-white my-2'>Let's Connect</h5>
         <p className='text-[#ADB7BE] mb-4 max-w-md'>
-        Whether you're looking to collaborate on exciting projects, explore new opportunities, or simply share ideas, I'm always eager to connect with fellow enthusiasts in web development and software engineering. Feel free to reach out, and let's create something amazing together!
+        Whether you&apos;re looking to collaborate on exciting projects, explore new opportunities, or simply share ideas, I&apos;m always eager to connect with fellow enthusiasts in web development and software engineering. Feel free to reach out, and let&apos;s create something amazing together!
         </p>
         <div className='socials flex flex-row gap-2'>
           <Link href="https://github.com/github-rnjn">
